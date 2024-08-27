@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning and Big Data**
 
-- 👨‍💻 All of my projects are available at [under construction](under construction)
+- 👨‍💻 All of my projects are available at [under construction]
 
 - 📝 I regularly write articles on [https://medium.com/@anjos.beatriz](https://medium.com/@anjos.beatriz)
 

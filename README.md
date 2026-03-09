@@ -40,10 +40,12 @@ Sou apaixonada por transformar dados brutos em ativos estratégicos. Com experi�
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjosbeatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjosbeatriz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anjosbeatriz&show_icons=true&theme=radical&rank_icon=github" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjosbeatriz&theme=radical&hide_border=true" />
 </p>
 
 ---

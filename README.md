@@ -34,7 +34,7 @@ Sou apaixonada por transformar dados brutos em ativos estratégicos. Com experi�
 1.  **[Modern Data Transformation]** 🏗️  
     *Modelagem de dados e criação de camadas Bronze, Silver e Gold utilizando dbt.*
 2.  **[Infrastructure as Code with Terraform]** 🛠️  
-    *Provisionamento de recursos de dados na nuvem (AWS/GCP) seguindo boas práticas de IaC.*
+    *Provisionamento de recursos de dados na nuvem (AWS) seguindo boas práticas de IaC.*
 3.  **[AWS Data Lakehouse]** 💧  
     *Pipeline de integração de dados utilizando S3, Glue e Athena para consultas performáticas.*
 
